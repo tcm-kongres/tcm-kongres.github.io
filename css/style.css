@@ -444,7 +444,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(6, 12, 34, 0.8);
+  background: rgba(6, 12, 34, 0.3);
   display: none;
 }
 
@@ -477,7 +477,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #intro:before {
   content: "";
-  background: rgba(6, 12, 34, 0.8);
+  
+  background: rgba(6, 12, 34, 0.3);
+  
   position: absolute;
   bottom: 0;
   top: 0;
@@ -665,7 +667,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about:before {
   content: "";
-  background: rgba(13, 20, 41, 0.8);
+  background: rgba(13, 20, 41, 0.5);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -709,7 +711,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details {
-  background: rgba(6, 12, 34, 0.76);
+  background: rgba(6, 12, 34, 0.3);
   position: absolute;
   left: 0;
   bottom: -30px;
@@ -1167,7 +1169,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #subscribe:before {
   content: "";
-  background: rgba(6, 12, 34, 0.6);
+  background: rgba(6, 12, 34, 0.3);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -1592,7 +1594,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 991px) {
   #header {
-    background: rgba(6, 12, 34, 0.98);
+    background: rgba(6, 12, 34, 0.5);
     height: 70px;
     padding: 15px 0;
     transition: all 0.5s;
