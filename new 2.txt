@@ -1,0 +1,103 @@
+https://docs.google.com/forms/d/e/1FAIpQLSdPzUFYs3_8Lk9RXeC6zCS7hmhAdJ-jb32Re2F_0GqR1n9b4Q/viewform?usp=pp_url&
+entry.508976930=Concession+PTTMC+3-day
+&entry.195568800=aa&entry.765786725=bb
+&entry.1698749834=cc
+&entry.680510907=pl
+&entry.497188138=Yes
+
+https://www.youtube.com/watch?v=I6lY0b42IoY
+https://www.youtube.com/watch?v=BB3HZ1XYEuI
+https://www.youtube.com/watch?v=hv0RtvMWl5w
+https://www.youtube.com/watch?v=7N_OsQwkn9w
+https://www.youtube.com/watch?v=8Q3bsr8lQk4
+
+eth:
+https://medium.com/ethereum-developers/ultimate-guide-to-convert-a-web-app-to-a-decentralized-app-dapp-f6112a079509
+https://github.com/janfilips/blockchain-notary/blob/8d09fbcdc5cc3001e7980e89f3b1c66e26018638/contracts/notary.sol
+https://github.com/janfilips/blockchain-notary/blob/8d09fbcdc5cc3001e7980e89f3b1c66e26018638/contracts/notary.sol
+https://github.com/janfilips/blockchain-notary/commit/8d09fbcdc5cc3001e7980e89f3b1c66e26018638
+https://github.com/janfilips/blockchain-notary/commit/c991b462d434c6f58aa96f6c586c0e9224085c31
+https://www.devteam.space/blog/how-to-deploy-smart-contract-on-ethereum/
+https://remix.ethereum.org/#optimize=true&version=soljson-v0.4.13+commit.fb4cb1a.js
+https://faucet.metamask.io/
+chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html#
+https://ropsten.etherscan.io/address/0x8a609b7375c11105e2ed5056ff852c5587320e67
+http://www.dappuniversity.com/articles/web3-js-intro
+
+
+
+
+bid dial emotion globe fresh expire employ cheap taxi paddle sand unique
+{
+	"linkReferences": {},
+	"object": "606060405260008054600160a060020a03199081167396e0089c04c99e69e4445787ba4cc3cea6e1b82f1790915560018054821673cf4e87991826081d172b61b2e1b2800f18da8ce71790556002805490911673dc04977a2078c8ffdf086d618d1f961b6c5462221790555b5b5b6102d28061007c6000396000f300606060405236156100515763ffffffff60e060020a6000350416631afa8e3b811461005a5780638e0b10f714610089578063bcbc1585146100b8578063e3d1e6d6146100c2578063e7e9f385146100ec575b6100585b5b565b005b341561006557600080fd5b61006d61010b565b604051600160a060020a03909116815260200160405180910390f35b341561009457600080fd5b61006d61011a565b604051600160a060020a03909116815260200160405180910390f35b610058610129565b005b34156100cd57600080fd5b6100d86004356101a4565b604051901515815260200160405180910390f35b6100d8600435610220565b604051901515815260200160405180910390f35b600154600160a060020a031681565b600054600160a060020a031681565b6000543490600160a060020a03166108fc6064835b046063029081150290604051600060405180830381858888f19350505050151561016757600080fd5b600154600160a060020a03166108fc6064835b049081150290604051600060405180830381858888f1935050505015156101a057600080fd5b5b50565b600254600090600160a060020a0316818163e3d1e6d685836040516020015260405160e060020a63ffffffff84160281526004810191909152602401602060405180830381600087803b15156101f957600080fd5b6102c65a03f1151561020a57600080fd5b50505060405180519350839150505b5050919050565b600254600090600160a060020a03168181638952877b85836040516020015260405160e060020a63ffffffff84160281526004810191909152602401602060405180830381600087803b151561027557600080fd5b6102c65a03f1151561028657600080fd5b50505060405180519050905061029a610129565b600192505b50509190505600a165627a7a723058200671198dab2a601e07881fc4f8ddf13300a20e94658099579993cbd9dd3a34450029",
+	"opcodes": "PUSH1 0x60 PUSH1 0x40 MSTORE PUSH1 0x0 DUP1 SLOAD PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB NOT SWAP1 DUP2 AND PUSH20 0x96E0089C04C99E69E4445787BA4CC3CEA6E1B82F OR SWAP1 SWAP2 SSTORE PUSH1 0x1 DUP1 SLOAD DUP3 AND PUSH20 0xCF4E87991826081D172B61B2E1B2800F18DA8CE7 OR SWAP1 SSTORE PUSH1 0x2 DUP1 SLOAD SWAP1 SWAP2 AND PUSH20 0xDC04977A2078C8FFDF086D618D1F961B6C546222 OR SWAP1 SSTORE JUMPDEST JUMPDEST JUMPDEST PUSH2 0x2D2 DUP1 PUSH2 0x7C PUSH1 0x0 CODECOPY PUSH1 0x0 RETURN STOP PUSH1 0x60 PUSH1 0x40 MSTORE CALLDATASIZE ISZERO PUSH2 0x51 JUMPI PUSH4 0xFFFFFFFF PUSH1 0xE0 PUSH1 0x2 EXP PUSH1 0x0 CALLDATALOAD DIV AND PUSH4 0x1AFA8E3B DUP2 EQ PUSH2 0x5A JUMPI DUP1 PUSH4 0x8E0B10F7 EQ PUSH2 0x89 JUMPI DUP1 PUSH4 0xBCBC1585 EQ PUSH2 0xB8 JUMPI DUP1 PUSH4 0xE3D1E6D6 EQ PUSH2 0xC2 JUMPI DUP1 PUSH4 0xE7E9F385 EQ PUSH2 0xEC JUMPI JUMPDEST PUSH2 0x58 JUMPDEST JUMPDEST JUMP JUMPDEST STOP JUMPDEST CALLVALUE ISZERO PUSH2 0x65 JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST PUSH2 0x6D PUSH2 0x10B JUMP JUMPDEST PUSH1 0x40 MLOAD PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB SWAP1 SWAP2 AND DUP2 MSTORE PUSH1 0x20 ADD PUSH1 0x40 MLOAD DUP1 SWAP2 SUB SWAP1 RETURN JUMPDEST CALLVALUE ISZERO PUSH2 0x94 JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST PUSH2 0x6D PUSH2 0x11A JUMP JUMPDEST PUSH1 0x40 MLOAD PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB SWAP1 SWAP2 AND DUP2 MSTORE PUSH1 0x20 ADD PUSH1 0x40 MLOAD DUP1 SWAP2 SUB SWAP1 RETURN JUMPDEST PUSH2 0x58 PUSH2 0x129 JUMP JUMPDEST STOP JUMPDEST CALLVALUE ISZERO PUSH2 0xCD JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST PUSH2 0xD8 PUSH1 0x4 CALLDATALOAD PUSH2 0x1A4 JUMP JUMPDEST PUSH1 0x40 MLOAD SWAP1 ISZERO ISZERO DUP2 MSTORE PUSH1 0x20 ADD PUSH1 0x40 MLOAD DUP1 SWAP2 SUB SWAP1 RETURN JUMPDEST PUSH2 0xD8 PUSH1 0x4 CALLDATALOAD PUSH2 0x220 JUMP JUMPDEST PUSH1 0x40 MLOAD SWAP1 ISZERO ISZERO DUP2 MSTORE PUSH1 0x20 ADD PUSH1 0x40 MLOAD DUP1 SWAP2 SUB SWAP1 RETURN JUMPDEST PUSH1 0x1 SLOAD PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB AND DUP2 JUMP JUMPDEST PUSH1 0x0 SLOAD PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB AND DUP2 JUMP JUMPDEST PUSH1 0x0 SLOAD CALLVALUE SWAP1 PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB AND PUSH2 0x8FC PUSH1 0x64 DUP4 JUMPDEST DIV PUSH1 0x63 MUL SWAP1 DUP2 ISZERO MUL SWAP1 PUSH1 0x40 MLOAD PUSH1 0x0 PUSH1 0x40 MLOAD DUP1 DUP4 SUB DUP2 DUP6 DUP9 DUP9 CALL SWAP4 POP POP POP POP ISZERO ISZERO PUSH2 0x167 JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST PUSH1 0x1 SLOAD PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB AND PUSH2 0x8FC PUSH1 0x64 DUP4 JUMPDEST DIV SWAP1 DUP2 ISZERO MUL SWAP1 PUSH1 0x40 MLOAD PUSH1 0x0 PUSH1 0x40 MLOAD DUP1 DUP4 SUB DUP2 DUP6 DUP9 DUP9 CALL SWAP4 POP POP POP POP ISZERO ISZERO PUSH2 0x1A0 JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST JUMPDEST POP JUMP JUMPDEST PUSH1 0x2 SLOAD PUSH1 0x0 SWAP1 PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB AND DUP2 DUP2 PUSH4 0xE3D1E6D6 DUP6 DUP4 PUSH1 0x40 MLOAD PUSH1 0x20 ADD MSTORE PUSH1 0x40 MLOAD PUSH1 0xE0 PUSH1 0x2 EXP PUSH4 0xFFFFFFFF DUP5 AND MUL DUP2 MSTORE PUSH1 0x4 DUP2 ADD SWAP2 SWAP1 SWAP2 MSTORE PUSH1 0x24 ADD PUSH1 0x20 PUSH1 0x40 MLOAD DUP1 DUP4 SUB DUP2 PUSH1 0x0 DUP8 DUP1 EXTCODESIZE ISZERO ISZERO PUSH2 0x1F9 JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST PUSH2 0x2C6 GAS SUB CALL ISZERO ISZERO PUSH2 0x20A JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST POP POP POP PUSH1 0x40 MLOAD DUP1 MLOAD SWAP4 POP DUP4 SWAP2 POP POP JUMPDEST POP POP SWAP2 SWAP1 POP JUMP JUMPDEST PUSH1 0x2 SLOAD PUSH1 0x0 SWAP1 PUSH1 0x1 PUSH1 0xA0 PUSH1 0x2 EXP SUB AND DUP2 DUP2 PUSH4 0x8952877B DUP6 DUP4 PUSH1 0x40 MLOAD PUSH1 0x20 ADD MSTORE PUSH1 0x40 MLOAD PUSH1 0xE0 PUSH1 0x2 EXP PUSH4 0xFFFFFFFF DUP5 AND MUL DUP2 MSTORE PUSH1 0x4 DUP2 ADD SWAP2 SWAP1 SWAP2 MSTORE PUSH1 0x24 ADD PUSH1 0x20 PUSH1 0x40 MLOAD DUP1 DUP4 SUB DUP2 PUSH1 0x0 DUP8 DUP1 EXTCODESIZE ISZERO ISZERO PUSH2 0x275 JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST PUSH2 0x2C6 GAS SUB CALL ISZERO ISZERO PUSH2 0x286 JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST POP POP POP PUSH1 0x40 MLOAD DUP1 MLOAD SWAP1 POP SWAP1 POP PUSH2 0x29A PUSH2 0x129 JUMP JUMPDEST PUSH1 0x1 SWAP3 POP JUMPDEST POP POP SWAP2 SWAP1 POP JUMP STOP LOG1 PUSH6 0x627A7A723058 KECCAK256 MOD PUSH18 0x198DAB2A601E07881FC4F8DDF13300A20E94 PUSH6 0x8099579993CB 0xd9 0xdd GASPRICE CALLVALUE GASLIMIT STOP 0x29 ",
+	"sourceMap": "30:1154:0:-;;;59:69;;;-1:-1:-1;;;;;;59:69:0;;;86:42;59:69;;;;;135;;;;162:42;135:69;;;213:83;;;;;;254:42;213:83;;;346:34;;30:1154;;;;;;;"
+}
+]
+
+3PH1qy6yDU7EmLnH3Csv3aijBM8qgiaA5S7
+
+
+było:
+    address public investor1 = 0x96E0089c04c99E69E4445787bA4CC3cEA6e1B82f;
+    address public investor2 = 0xCF4e87991826081d172B61b2e1B2800F18dA8cE7;
+
+    address NotaryPersistentStorageAddress = 0xdc04977a2078c8ffdf086d618d1f961b6c546222;
+
+
+
+
+wav:
+https://client.wavesplatform.com/wallet/assets
+https://wavesexplorer.com
+
+
+co do dema, to:
+1. porzuciłem poca na ethereum. jeżeli mamy decyzję, że całe dokumenty na blockchain pchamy to na eth to się nie uda
+2. zrobiłem/dokończyłem poc na waves. to ciągle stabilnie pierwsza 30tka pod względem kapitalizacji, rozwój po mojej myśli i wróżę przyszłość. no i tam nasza koncepcja się zgadza. do 140kb.
+3. przeszedłem na mainnet. dotąd korzystałem tylko z sieci testowej. teraz jesteśmy na głównym blockchainie Waves.
+4. wdrożyłem demo na serwer amy pod http://10.77.11.11:8100/	
+
+
+prezentacja:
+https://wavesexplorer.com/tx/4K7b3baFjXzTm9LT8acPHswV7k89A1j7KukmuW7gaZ2Q
+
+pko zakłada, że dokument ma 2MB czyli propagacja dokumentu na ich 5węzłową sieć (2+3 - pko+kir) 10 10MB ruchu, co ich zabija przy wysyłce prywatnych dokumentów
+czym jest repozytorium dokumentów..? wg mnie najlepiej zarządzalnym repem jest git. oczywiście można go obudować narzędziami, które pozwalają łatwo repo gitowym zarządzać przez 
+nietechniczne osoby
+sytuacja w której oddzilemay styl od treści + dojrzała to latex. tyle lat w akademickim świecie z powodzeniem wykorzystywany...
+a są narzędzia. i na dobrych licencjach. 
+sharelatex + integracja z github + własne zarządzanie kluczami + waves === całość zarządzania dokumentami w banku
+
+PDF jest formatem zaproponowanym przez Adobe w 1990 roku. 
+each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images and other information needed to display it
+PDF was standardized as an open format, ISO 32000, in 2008
+A PDF file is a 7-bit ASCII file, except for certain elements that may have binary content. A PDF file starts with a header containing the magic number and the version of the format such as %PDF-1.7
+https://www.ilovepdf.com/compress_pdf
+https://www.kasastefczyka.pl/pliki-do-pobrania?utm_source=site&utm_medium=sitelink&utm_campaign=mainsite&utm_term=czarny&utm_content=pliki_do_pobrania
+https://acrobat.adobe.com/pl/pl/landing/acrobat-pro-ipm-pricing.html?trackingid=MLR7SG98&ttid=optmzpdf1&mv=in-product&mv2=reader&DTProd=Reader&DTServLvl=SignedOut
+
+https://github.com/sharelatex/sharelatex/wiki/Quick-Start-Guide
+
+
+do Remika:
+W wielu rzeczach się z Tobą zgadzam. 
+Mój punkt patrzenia jest taki, że 
+- jeżeli sieć ma 5 węzłów..
+ale przejście na dwa serwery które trzymają spójność z blockchainem jest z jednej strony..rozwiązaniem inżynierskiego problemu, a z drugiej ..totalne opary absurdu
+nie potrafię przeiwdzieć rychów uokik, ale zgadzam się z nim, że dostępność nie jest gwarantowana. mało tego..do integralności też mam zastrzeżenia. bo nie jest 
+blockchainem sieć do której nie da się przystąpić i w której jest dwóch udziałowców 60%+40%
+dalej jest wszystko PR'em
+
+skończyłbym z gadaniem o wrzucaniu na wiele blockchainów. albo zajawiłbym tylko, że myślimy o takiej opcji.
+ile kosztuje transakcja na waves? na 140kb?
+
+plan jest taki:
+10 zdań na temat blockchain ze wskazaniem dlaczego te sieci istnieją czyli, że musi istnieć uzasadnienie dla robienia węzła. 
+że problemy są dwa a nie jeden: 1-integralność (może być przez hash na bc) 2 dostępność czyli repo. my przez cały dokument na bc
+artykuł o bllonie, że wycofał transakcję
+merytoryczny negatywny pr na pko/kir, billon, atende
+
+
+
