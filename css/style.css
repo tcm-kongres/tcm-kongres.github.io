@@ -1099,7 +1099,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
-  height: 160px;
+  height: 200px;
 }
 
 #sponsors .sponsor-logo:hover img {
