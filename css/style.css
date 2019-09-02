@@ -523,6 +523,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro h1 span {
   color: #f82249;
 }
+#intro h2 {
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  /* text-transform: uppercase; */
+}
 
 #main h3 span {
   color: #f82249;
